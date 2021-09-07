@@ -14,18 +14,26 @@ This study aid will help you prepare for Tensorflow Developer Certification test
 * You do not need GPU to train the models. A local machine with 4+ cores and 8+ GB memory is sufficient to take the test
 * Do not forget to submit at the end of the exam
 
-## Recommended Learning resources
+## Recommended Self Learning resources
 1. The famous ML Book https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ (Ch:10-16)
 2. Machine Learning Foundations https://goo.gle/ml-foundations
 3. Udacity Course https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 4. Coursera Course https://www.coursera.org/professional-certificates/tensorflow-in-practice 
 5. ML Zero to Hero (First 4 videos) https://www.youtube.com/playlist?list=PLZKsYDC2S5rM6yKBs5ParXS6RWda6iAnK
 6. NLP Zero to Hero https://www.youtube.com/playlist?list=PLQY2H8rRoyvzDbLUZkbudP-MFQZwNmU4S
-7. TensorFlow Developer Professional Certificate Prep course (recommended by Tensorflow) https://www.coursera.org/professional-certificates/tensorflow-in-practice
-8. Hello world in TF https://developers.google.com/codelabs/tensorflow-1-helloworld#0
-9. https://www.LearnTensorFlow.io 
-10. Tensorflow Tutorials https://www.tensorflow.org/tutorials 
-11. Tensorflow Guide https://www.tensorflow.org/guide 
+7. Hello world in TF https://developers.google.com/codelabs/tensorflow-1-helloworld#0
+8. https://www.LearnTensorFlow.io 
+9. Tensorflow Tutorials https://www.tensorflow.org/tutorials 
+10. Tensorflow Guide https://www.tensorflow.org/guide 
+
+## Paid Courses
+If you decide to take one of these paid courses, you should still finish the weekly assignments listed in the study plan.
+
+1. https://www.coursera.org/professional-certificates/tensorflow-in-practice (Recommended by Google Tensorflow Team)
+2. https://www.TFCertification.com 
+3. https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/ 
+
+
 
 ## Pre-requisites 
 * 12+ months of Python coding experience
