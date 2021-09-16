@@ -109,7 +109,11 @@ Following this study plan if you have good grasp of Python programing and you ar
 
 **CHECKPOINT**
 ```
-You should be comfortable with topics covered in the certification exam. From now on, you should be exclusively practising your coding skills in PyCharm IDE. Pleasae note that you will take certification test within PyCharm IDE.
+You should be comfortable with topics covered in the certification exam. 
+
+After this week, you should be exclusively practising your coding skills in PyCharm IDE. 
+
+Please note that you will take certification test within PyCharm IDE.
 ```
 ### **Week 6 - Practice exercises**
 Ensure that your PyCharm environment is compliant with instructions provided in the [Setup Dev environment] guide. Complete following tasks in your PyCharm IDE.
