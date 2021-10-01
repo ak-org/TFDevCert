@@ -68,8 +68,12 @@ Following this study plan if you have good grasp of Python programing and you ar
 * Learn to save and load model by following this [save keras model] tutorial
     ### Assignment for Week 1
     Develop linear regression models using Tensorflow Keras Sequential APIs. Train and evaluate linear regression models on following datasets:
-    * [Red wine quality] dataset
-    * [Boston Housing] dataset
+    * [Red wine quality] dataset details
+        * [Red wine csv] data file
+        * [White wine csv] data file
+    * [Boston Housing] dataset details
+        * [Boston Housing csv] data file
+
 
 ### **Week 2 - Deep Neural Network**
 * Review the [quick start for beginners] guide and run code in your colab environment
@@ -199,3 +203,6 @@ By the end of week 2, you should have basic understanding of Machine learning co
 [sunspot]: https://storage.googleapis.com/laurencemoroney-blog.appspot.com/Sunspots.csv "sunspot"
 [sensor]: https://www.kaggle.com/taranvee/smart-home-dataset-with-weather-information "sensor"
 [image_augmentation]: https://www.tensorflow.org/tutorials/images/data_augmentation "image_augmentation"
+[Red wine csv]: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-red.csv "red wine csv"
+[White wine csv]: https://archive.ics.uci.edu/ml/machine-learning-databases/wine-quality/winequality-white.csv "white wine csv"
+[Boston Housing csv]: http://course1.winona.edu/bdeppa/Stat%20425/Data/Boston_Housing.csv "Boston Housing csv"
