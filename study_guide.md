@@ -76,7 +76,6 @@ Following this study plan if you have good grasp of Python programing and you ar
 
 
 ### **Week 2 - Deep Neural Network**
-* Review the [quick start for beginners] guide and run code in your colab environment
 * Review the [basic classification] tutorial and run code in your colab environment
 * Explore the [tensorflow datasets] documentation
 * Review the [tfdata] tutorial and run code in your colab environment
