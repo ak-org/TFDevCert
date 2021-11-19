@@ -15,7 +15,7 @@ This study aid will help you prepare for Tensorflow Developer Certification test
 * Do not forget to submit at the end of the exam
 
 ## Recommended Self Learning resources
-1. The famous ML Book https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ (Ch:10-16)
+1. The famous ML Book https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/ (Ch:4,10-16)
 2. Machine Learning Foundations https://goo.gle/ml-foundations
 3. Udacity Course https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187
 4. Coursera Course https://www.coursera.org/professional-certificates/tensorflow-in-practice 
