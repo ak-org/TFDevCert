@@ -25,6 +25,7 @@ This study aid will help you prepare for Tensorflow Developer Certification test
 8. https://www.LearnTensorFlow.io 
 9. Tensorflow Tutorials https://www.tensorflow.org/tutorials 
 10. Tensorflow Guide https://www.tensorflow.org/guide 
+11. Codelab based hands-on exercise  https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0
 
 ## Paid Courses
 If you decide to take one of these paid courses, you should still finish the weekly assignments listed in the study plan.
